@@ -13,5 +13,5 @@ services:
         networks:
             - common-network
 networks:
-common-netwrok:
+common-network:
      driver: bridge
